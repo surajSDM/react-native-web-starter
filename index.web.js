@@ -1,5 +1,5 @@
-import React from 'react';
-import { AppRegistry, StyleSheet, Text, View } from 'react-native';
+import React from "react";
+import { AppRegistry, StyleSheet, Text, View } from "react-native";
 
 class App extends React.Component {
   render() {
@@ -13,8 +13,10 @@ class App extends React.Component {
 
 const styles = StyleSheet.create({
   box: { padding: 10 },
-  text: { fontWeight: 'bold' }
+  text: { fontWeight: "bold" }
 });
 
-AppRegistry.registerComponent('App', () => App);
-AppRegistry.runApplication('App', { rootTag: document.getElementById('react-root') });
+AppRegistry.registerComponent("App", () => App);
+AppRegistry.runApplication("App", {
+  rootTag: document.getElementById("react-root")
+});
