@@ -1,3 +1,3 @@
-rootProject.name = 'ActNursesportal'
+rootProject.name = 'ReactNativeWebStarter'
 
 include ':app'

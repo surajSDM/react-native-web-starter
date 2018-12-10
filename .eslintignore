@@ -1,0 +1,12 @@
+updated_modules/*
+node_modules/*
+ios/*
+android/*
+src/assets/*
+.eslintignore
+package.json
+package-lock.json
+index.js
+app.json
+credentials
+*.keystore

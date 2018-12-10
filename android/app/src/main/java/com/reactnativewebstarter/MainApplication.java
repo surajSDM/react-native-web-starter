@@ -1,4 +1,4 @@
-package com.actnursesportal;
+package com.reactnativewebstarter;
 
 import android.app.Application;
 
